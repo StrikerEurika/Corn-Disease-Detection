@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore dataset preventing warning from github
+datasets/
+datasets/Corn Diseases.v2-no-tile.multiclass/
+assets/
