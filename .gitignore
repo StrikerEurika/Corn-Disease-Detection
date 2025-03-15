@@ -175,5 +175,4 @@ cython_debug/
 
 # ignore dataset preventing warning from github
 datasets/
-datasets/Corn Diseases.v2-no-tile.multiclass/
 assets/
